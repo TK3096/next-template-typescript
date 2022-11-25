@@ -21,7 +21,8 @@
       "@utils/*": ["utils/*"],
       "@hooks/*": ["hooks/*"],
       "@contexts/*": ["contexts/*"],
-      "@themes/*": ["@themes/*"]
+      "@themes/*": ["@themes/*"],
+      "@containers/*": ["@containers/*"]
     }
   },
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],

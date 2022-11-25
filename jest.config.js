@@ -21,6 +21,7 @@ const customJestConfig = {
     '^@hooks/(.*)$': '<rootDir>/hooks/$1',
     '^@contexts/(.*)$': '<rootDir>/contexts/$1',
     '^@themes/(.*)$': '<rootDir>/themes/$1',
+    '^@containers/(.*)$': '<rootDir>/containers/$1',
   },
 }
 
