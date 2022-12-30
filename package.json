@@ -8,7 +8,7 @@
     "start": "next start",
     "lint": "eslint ./src --ext ts --ext tsx --ext js",
     "format": "prettier --write ./src",
-    "check-format": "prettier --check ./src",
+    "format:checkt": "prettier --check ./src",
     "test": "jest --watch"
   },
   "dependencies": {
